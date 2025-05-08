@@ -73,4 +73,5 @@ This project provides insights into the impact of COVID-19 on a global scale, fo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Merlinantony1810/covidproject.git
+ git clone https://github.com/Merlinantony1810/covid-19-global-insights.git
+
