@@ -1,20 +1,12 @@
 # 🦠 COVID-19 Worldwide Data Analysis using SQL
-
 This project explores global COVID-19 data to uncover trends in infection rates, mortality, and vaccination efforts using SQL. It focuses on analyzing detailed information about COVID-19 cases, deaths, population, and vaccination rates across different countries and continents. The goal is to derive valuable insights into the pandemic’s global spread, impact, and response efforts.
-
 ---
-
 ## 🗂️ Dataset Overview
-
 The analysis leverages two key datasets:
-
 - **`coviddeaths`**: This dataset contains daily records of COVID-19 cases, deaths, and population by country.
 - **`covidvaccinations`**: This dataset includes vaccination data (new vaccinations) by country and date.
-
 ---
-
 ## 🔍 Key Analyses & Insights
-
 The project explores various aspects of COVID-19's impact globally, with the following analyses:
 
 ### ✅ **Mortality Rate**
@@ -40,11 +32,9 @@ Presents total daily cases and deaths globally, and calculates the global mortal
 
 ### ✅ **Rolling Count of People Vaccinated**
 Tracks the cumulative number of vaccinated individuals per country over time, and computes the percentage of the population that has received the vaccine.
-
 ---
 
 ## 🧠 SQL Techniques Used
-
 The project uses various advanced SQL techniques to extract meaningful insights:
 
 - **JOINs**: Combining data from different sources (e.g., case data and vaccination data).
@@ -52,11 +42,9 @@ The project uses various advanced SQL techniques to extract meaningful insights:
 - **Aggregate Functions**: Functions like `SUM()`, `MAX()`, and `ROUND()` to compute totals, maxima, and averages.
 - **Window Functions**: Used to compute running totals, such as the rolling count of vaccinations over time.
 - **Views**: Encapsulating common queries into reusable SQL views for easy reporting and analysis.
-
 ---
 
 ## 🧱 Views Created
-
 The project defines several SQL views that simplify access to critical metrics:
 
 - `mortalityrate`
@@ -68,7 +56,6 @@ The project defines several SQL views that simplify access to critical metrics:
 - `RollingCountofPeopleVaccinated`
 
 These views allow for easier querying of COVID-19 trends and insights for further analysis or visualization.
-
 ---
 
 ## 📌 Purpose
@@ -79,7 +66,6 @@ This project provides insights into the impact of COVID-19 on a global scale, fo
 - Identifying the regions most affected by the pandemic.
 - Assessing the progress of vaccination campaigns.
 - Providing data-driven recommendations to aid public health planning.
-
 ---
 
 ## 🛠️ How to Use
