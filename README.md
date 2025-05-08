@@ -1,6 +1,6 @@
 # 🦠 COVID-19 Worldwide Data Analysis using SQL
 
-This project explores global COVID-19 data to uncover trends in infection rates, mortality, and vaccination efforts using SQL. It focuses on analyzing detailed information about COVID-19 cases, deaths, population, and vaccination rates across different countries and continents. The goal is to derive valuable insights into the pandemic’s global spread, impact, and response efforts.
+This project explores global COVID-19 data to uncover trends in infection rates, mortality, and vaccination efforts using SQL. 
 ---
 ## 🗂️ Dataset Overview
 The analysis leverages two key datasets:
