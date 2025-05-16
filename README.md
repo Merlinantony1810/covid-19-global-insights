@@ -2,34 +2,13 @@
 
 This project explores global COVID-19 data to uncover trends in infection rates, mortality, and vaccination efforts using SQL. 
 ---
-## 🗂️ Dataset Overview
-The analysis leverages two key datasets:
-- **`coviddeaths`**: This dataset contains daily records of COVID-19 cases, deaths, and population by country.
-- **`covidvaccinations`**: This dataset includes vaccination data (new vaccinations) by country and date.
----
+
 ## 🔍 Key Analyses & Insights
-The project explores various aspects of COVID-19's impact globally, with the following analyses:
+The project explores various aspects of COVID-19's impact globally, with the following analyses:  
 
-### ✅ **Mortality Rate**
-Calculates the percentage of deaths relative to total confirmed cases, offering insight into the severity of the virus in different regions.
-
-### ✅ **Percentage of Population Infected**
-Determines the percentage of a country’s population that has contracted COVID-19, helping to assess the spread of the virus in various regions.
-
-### ✅ **Highest Infection Rate by Country**
-Identifies the countries with the highest proportion of infected citizens in relation to their population size.
-
-### ✅ **Highest Death Rate per Population**
-Highlights countries where the largest percentage of the population has died due to COVID-19.
-
-### ✅ **Country with the Highest Death Count**
-Ranks countries by total deaths to show where the pandemic had the greatest absolute impact.
-
-### ✅ **Continent with the Highest Death Count**
-Aggregates death totals by continent, offering a broader view of the global impact.
-
-### ✅ **Global Daily Cases and Deaths**
-Presents total daily cases and deaths globally, and calculates the global mortality rate based on new cases.
+## 🗂️ Dataset Overview
+Our World in Data COVID-19 datasets can be found on https://ourworldindata.org/covid-deaths.
+___
 
 ## 🧠 SQL Techniques Used
 The project uses various advanced SQL techniques to extract meaningful insights:
@@ -40,7 +19,6 @@ The project uses various advanced SQL techniques to extract meaningful insights:
 - **Window Functions**: Used to compute running totals, such as the rolling count of vaccinations over time.
 - **Views**: Encapsulating common queries into reusable SQL views for easy reporting and analysis.
 ---
-
 ## 🧱 Views Created
 The project defines several SQL views that simplify access to critical metrics:
 
@@ -64,5 +42,7 @@ This project provides insights into the impact of COVID-19 on a global scale, fo
 - Assessing the progress of vaccination campaigns.
 - Providing data-driven recommendations to aid public health planning.
 ---
+## License
+All the material produced by Our World in Data, including interactive visualizations and code, are completely open access under the Creative Commons BY license
 
 
