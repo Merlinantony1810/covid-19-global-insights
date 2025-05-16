@@ -31,10 +31,6 @@ Aggregates death totals by continent, offering a broader view of the global impa
 ### ✅ **Global Daily Cases and Deaths**
 Presents total daily cases and deaths globally, and calculates the global mortality rate based on new cases.
 
-### ✅ **Rolling Count of People Vaccinated**
-Tracks the cumulative number of vaccinated individuals per country over time, and computes the percentage of the population that has received the vaccine.
----
-
 ## 🧠 SQL Techniques Used
 The project uses various advanced SQL techniques to extract meaningful insights:
 
@@ -69,9 +65,4 @@ This project provides insights into the impact of COVID-19 on a global scale, fo
 - Providing data-driven recommendations to aid public health planning.
 ---
 
-## 🛠️ How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Merlinantony1810/covid-19-global-insights.git
 
