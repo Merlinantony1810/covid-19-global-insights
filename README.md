@@ -16,16 +16,6 @@ The project uses various advanced SQL techniques to extract meaningful insights:
 - **Window Functions**: Used to compute running totals, such as the rolling count of vaccinations over time.
 - **Views**: Encapsulating common queries into reusable SQL views for easy reporting and analysis.
 ---
-## 🧱 Views Created
-The project defines several SQL views that simplify access to critical metrics:
-
-- `mortalityrate`
-- `PercentagePopulationInfected`
-- `HighestInfectedCountry`
-- `HighestDeathperPopulation`
-- `hightestDeathCountLocation`
-- `percentpopvac`
-- `RollingCountofPeopleVaccinated`
 
 ## 📌 Purpose
 This project provides insights into the impact of COVID-19 on a global scale, focusing on:
