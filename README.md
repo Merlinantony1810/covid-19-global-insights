@@ -36,6 +36,6 @@ This project provides insights into the impact of COVID-19 on a global scale, fo
 - Providing data-driven recommendations to aid public health planning.
 ---
 ## License
-All the material produced by Our World in Data, including interactive visualizations and code, are completely open access under the Creative Commons BY license
+All content in this repository is open-access under the Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 
