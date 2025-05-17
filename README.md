@@ -1,8 +1,5 @@
 # 🦠 COVID-19 Worldwide Data Analysis using SQL
 
-This project explores global COVID-19 data to uncover trends in infection rates, mortality, and vaccination efforts using SQL. 
----
-
 ## 🔍 Key Analyses & Insights
 The project explores various aspects of COVID-19's impact globally, with the following analyses:  
 
@@ -30,11 +27,7 @@ The project defines several SQL views that simplify access to critical metrics:
 - `percentpopvac`
 - `RollingCountofPeopleVaccinated`
 
-These views allow for easier querying of COVID-19 trends and insights for further analysis or visualization.
----
-
 ## 📌 Purpose
-
 This project provides insights into the impact of COVID-19 on a global scale, focusing on:
 
 - Understanding the progression and severity of the virus.
